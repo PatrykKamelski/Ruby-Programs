@@ -36,7 +36,7 @@ puts
 print a
 end
 
-puts " "
+puts
 
 z = 0
 while z < 5

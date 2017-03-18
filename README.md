@@ -1,2 +1,2 @@
-# Ruby-Programs
-Wszystkie moje super programy napisane w Ruby.
+# Ruby-Przypominajki
+Przypominajki w Rubym.

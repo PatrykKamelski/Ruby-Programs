@@ -10,6 +10,5 @@ puts d = a[2..4]
 puts "Przedziały"
 puts x = 1..10
 print x.to_a
-puts " "
 puts "------------"
 print [*x]

@@ -12,7 +12,7 @@ end
 
 greet(name:"Patryk", exclamation:"!!")
 
-#podczas definiowania argument "zwykły" musi być na początku, nie może być na końcu
+#podczas definiowania argument nie nazwany musi być na początku
 def greet(salutation, name:, exclamation:)
   puts "#{salutation} #{name} #{exclamation}"
 end

@@ -21,7 +21,7 @@ end
 p1 = Person.new("Paweł")
 p2 = Person.new("Gaweł")
 
-p12 = p1 + p2
+p12 = p1 + p2 #p12 = p1.+(p2)
 
 puts p12.name
 
